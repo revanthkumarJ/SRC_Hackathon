@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887704196387",
+    "project_id": "srcemailvalidation",
+    "storage_bucket": "srcemailvalidation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887704196387:android:a71eaa715a4a22b7ec6896",
+        "android_client_info": {
+          "package_name": "com.example.src_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FlEdqEpiUFqhHMisfZRGdMIdeqXWMR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
